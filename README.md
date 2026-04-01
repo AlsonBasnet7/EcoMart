@@ -1,64 +1,66 @@
-EcoMart – Eco-Friendly E-Commerce Website
+# EcoMart – Eco-Friendly E-Commerce Website
 
-EcoMart is a front-end e-commerce website designed to promote and sell eco-friendly and sustainable products.
-The website focuses on spreading awareness about environmental responsibility while providing a clean, user-friendly platform for browsing eco-conscious products.
+EcoMart is a **front-end e-commerce website** designed to promote and sell **eco-friendly and sustainable products**. The platform combines a **clean user experience**, **modern responsive design**, and **interactive front-end features** to spread awareness about environmental responsibility.
 
-This project is built using core web technologies and demonstrates practical implementation of modern web design principles.
+This project demonstrates the practical use of **HTML, CSS, and JavaScript** in building a structured multi-page website.
 
-Project Description
+---
 
-EcoMart is a multi-page website that includes product listings, informational pages, blogs, research content, and user interaction features.
-The website is designed with responsiveness, simplicity, and sustainability in mind.
+# Project Overview
 
-It serves as an educational and practical project showcasing front-end development skills using HTML, CSS, and JavaScript.
+EcoMart is a **multi-page web application** that includes product browsing, educational content, blogs, research pages, and user interaction features.
 
-Pages Included
+The project is built with a focus on:
 
-Home Page
+* Sustainability awareness
+* Responsive design
+* Clean UI/UX
+* Dynamic front-end interactions
+* Modular file organization
 
-Products Page
+It serves as both an **educational project** and a **real-world front-end development showcase**.
 
-About Us Page
+---
 
-Blog Page
+# Pages Included
 
-Research Page
+* **Home Page**
+* **Products Page**
+* **About Us Page**
+* **Blog Page**
+* **Research Page**
+* **Login Page**
+* **Navigation Bar**
+* **Team / Portfolio Pages**
 
-Login Page
+Each page is styled separately to maintain **clarity, scalability, and modular design**.
 
-Navigation Bar
+---
 
-Team / Portfolio Pages
+# Features
 
-Each page is styled separately to maintain clarity and modular design.
+* Eco-friendly product showcase
+* Fully responsive layout
+* Clean and organized navigation bar
+* Product listing using JavaScript
+* Dynamically loaded blog content
+* Smooth animations and interactions
+* Modern login page UI
+* Structured multi-page architecture
 
-Features
+---
 
-Eco-friendly product showcase
+# Technologies Used
 
-Responsive layout for different screen sizes
+* **HTML** → Page structure and content
+* **CSS** → Styling, layout, responsiveness, animations
+* **JavaScript** → Dynamic content and interactivity
 
-Organized multi-page structure
+---
 
-Clean navigation bar
+# Folder Structure
 
-Product listing using JavaScript
-
-Blog content loaded dynamically
-
-Custom animations and interactions
-
-Login page UI design
-
-Technologies Used
-
-HTML – Page structure and content
-
-CSS – Styling, layout, responsiveness, and animations
-
-JavaScript – Dynamic content, product handling, and interactivity
-
-Folder Structure
+```text
 EcoMart/
 │
 ├── html/
@@ -68,7 +70,7 @@ EcoMart/
 │   ├── blog.html
 │   ├── research.html
 │   ├── login.html
-│   └── portfolio pages
+│   └── portfolio-pages/
 │
 ├── css/
 │   ├── style.css
@@ -86,47 +88,75 @@ EcoMart/
 │   └── animation.js
 │
 └── assets/
-    ├── images
-    ├── icons
-    └── videos
+    ├── images/
+    ├── icons/
+    └── videos/
+```
 
-How to Run the Project
+---
 
-Clone the repository
+# How to Run the Project
 
+## 1) Clone the repository
+
+```bash
 git clone https://github.com/your-username/ecomart.git
+```
 
+## 2) Open the project folder
 
-Open the project folder
+```bash
+cd ecomart
+```
 
-Navigate to the html folder
+## 3) Navigate to the HTML folder
 
-Open HomePage.html in any modern web browser
+Open the `html/` folder and launch:
 
-Purpose of the Project
+```text
+HomePage.html
+```
 
-To practice front-end web development
+Use any modern browser such as **Chrome, Edge, Safari, or Firefox**.
 
-To apply HTML, CSS, and JavaScript in a real-world themed project
+---
 
-To promote eco-friendly products and sustainable living
+# Purpose of the Project
 
-To demonstrate responsive and structured web design
+This project was created to:
 
-Future Enhancements
+* Practice **front-end web development**
+* Apply **HTML, CSS, and JavaScript** in a real-world theme
+* Promote **eco-friendly products and sustainable living**
+* Demonstrate **responsive and structured web design**
+* Showcase **clean multi-page project organization**
 
-Add shopping cart functionality
+---
 
-Implement backend integration
+# Future Enhancements
 
-Add user authentication and database support
+Planned improvements for EcoMart:
 
-Improve product filtering and search
+* Shopping cart functionality
+* Backend integration
+* User authentication and database support
+* Product filtering and search
+* Demo payment gateway integration
+* Wishlist feature
+* Order tracking UI
 
-Integrate payment gateway (demo)
+---
 
-Author
+# Author
 
-Alson Basnet
-Front-End Web Development Project
-Built using HTML, CSS, and JavaScript
+**Alson Basnet**
+
+*Front-End Web Development Project*
+Built using **HTML, CSS, and JavaScript**.
+
+---
+
+# Support
+
+If you like this project, consider giving it a **star on GitHub**.
+It helps showcase the project and supports future improvements.
